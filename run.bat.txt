@@ -1,0 +1,3 @@
+pytest -v -s --html=Reports\report.html TestCases/test_checkout.py
+rem pytest -v -s --html=Reports\report.html TestCases/test_login_DDT.py
+rem pytest -v -s --html=Reports\report.html TestCases/test_login.py
